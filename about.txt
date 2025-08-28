@@ -1,0 +1,3 @@
+NAME:A.Arshita
+COURSE: Bsc DataScience
+GITHUB:Github is a web based platform used for version control and collaboration. It helps developers and teams to store, manage and track changes in their code.
